@@ -1,5 +1,5 @@
 # fastwallet
-An instant HD bitcoin web wallet that runs in your browser. Instantaneous use! No sign up, no wallet setup process or upfront back up.
+An instant HD bitcoin web wallet that runs in your browser. Serverless, nomadic, privacy-focused throwaway bitcoin wallet. Instantaneous use! No sign up, no wallet setup process or upfront back up.
 
 This is free and unencumbered software released into the public domain.
 
